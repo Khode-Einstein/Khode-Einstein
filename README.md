@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Khode-Einstein
-- 👀 I’m interested in programming and webdevolpemt 
-- 🌱 I’m currently learning HTML, CSS JavaScript, python and C
-- 💞️ I’m looking to collaborate on webdevolpemt 
-- 📫 How to reach me Khode Einstein on Facebook 
+- 👋 Hi, I’m @i.o.m_future
+- 👀 I’m interested in programming and app development 
+- 🌱 I’m currently learning JavaScript,react and react native 
+- 💞️ I’m looking to collaborate on app development 
+- 📫 How to reach me i.o.m future on Facebook 
 
 <!---
 Khode-Einstein/Khode-Einstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
